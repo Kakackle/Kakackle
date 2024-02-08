@@ -18,7 +18,6 @@ Currently working on developing my skills and veering further into Data Analysis
 ### How to reach me:
 * On LinkedIn
 * Through mail: markowskimaciej98@gmail.com
-* 
 
 ### Languages and Tools:
 
@@ -35,6 +34,7 @@ Currently working on developing my skills and veering further into Data Analysis
 
 #
 ### Currently working on:
+* [Multi-website job offer scrapper with additional visualizations](https://github.com/Kakackle/python_scrapers_etc)
 * R
 * DS
 * GCP
