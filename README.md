@@ -14,7 +14,8 @@ Currently working on developing my skills and veering further into Data Analysis
 * [Account-based blog](https://vue-blog-front.netlify.app/)
 * [Fullstack Django Instagram clone](https://django-insta.onrender.com/)
 * [Interactive EDA project with song lyrics](https://lyrics-analysis.onrender.com/)
-* [BigQuery / Looker Studio Chicago Crime project](https://lookerstudio.google.com/reporting/ffd46b6a-01cc-47b1-a591-ed8dfd988a59)
+* [BigQuery / Looker Studio New York Bike Rental Analysis and trip duration predicting](https://lookerstudio.google.com/reporting/64994917-0691-4d94-923b-e59798c9c611)
+* (Work in progress)[BigQuery / Looker Studio Chicago Crime project](https://lookerstudio.google.com/reporting/ffd46b6a-01cc-47b1-a591-ed8dfd988a59)
 
 ### How to reach me:
 * On LinkedIn
