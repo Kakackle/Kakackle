@@ -27,15 +27,13 @@ Currently working on developing my skills and veering further into Data Analysis
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /> 
 
 #
 ### Currently working on:
